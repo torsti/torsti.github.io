@@ -1,0 +1,33 @@
+h1 {
+   font-size: 250%;
+}
+
+p {
+   font-size: 150%;
+}
+
+li {
+   font-size: 130%;
+}
+
+li li {
+   font-size: 100%;
+}
+
+li p {
+   font-size: 100%;
+}
+
+.footnote {
+   margin-top: 10%;
+   font-size: 80%;
+}
+
+.footnote p {
+   display: inline
+}
+
+a.footnotereturn {
+   text-decoration: none;
+   color: black;
+}
